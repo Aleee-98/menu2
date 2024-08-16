@@ -1,8 +1,10 @@
-#Proyecto: menu2\n
-Matrícula: 202127244\n
-Nombre: Alejandro Gómez Ortega\n
-Fecha: 2024-08-15\n
-Descripción: Mi primer repositorio\n
+#Proyecto: menu2
+Matrícula: 202127244
+Nombre: Alejandro Gómez Ortega
+Fecha: 2024-08-15
+Materia: Desarrollo de aplicaciones web
+Periodo: otoño 2024
+Descripción: Mi primer repositorio
 Leo Messi <3
 
 Def. Sistema de Control de Versiones
