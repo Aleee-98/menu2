@@ -1,5 +1,5 @@
-# menu2
-Mi primer repositorio
-
-Alejandro Gómez Ortega
-202127244
+#Proyecto: menu2
+Matrícula: 202127244
+Nombre: Alejandro Gómez Ortega
+Fecha: 2024-08-15
+Descripción: Mi primer repositorio
