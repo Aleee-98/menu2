@@ -1,5 +1,6 @@
-#Proyecto: menu2
-Matrícula: 202127244
-Nombre: Alejandro Gómez Ortega
-Fecha: 2024-08-15
-Descripción: Mi primer repositorio
+#Proyecto: menu2\n
+Matrícula: 202127244\n
+Nombre: Alejandro Gómez Ortega\n
+Fecha: 2024-08-15\n
+Descripción: Mi primer repositorio\n
+Leo Messi <3
